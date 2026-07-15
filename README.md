@@ -1,4 +1,4 @@
-# DEGAS: Detailed Expressions on Full-Body Gaussian Avatars [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Finitialneil.github.io%2FDEGAS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# DEGAS: Detailed Expressions on Full-Body Gaussian Avatars [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Finitialneil.github.io%2FDEGAS&label=hits&icon=cup-hot&color=%233d8bfd&message=&style=flat&tz=Hongkong)](https://hitscounter.dev)
 ## [Paper(arXiv:2408.10588)](https://arxiv.org/abs/2408.10588) | [Video Youtube]() | [Project Page](https://initialneil.github.io/DEGAS)
 
 <!-- Official Repository for CVPR 2024 paper [*SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting*](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers).  -->
